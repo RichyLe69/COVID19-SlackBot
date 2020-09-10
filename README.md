@@ -28,7 +28,7 @@ Retrieves Data from disease.sh API which is based on Worldometers and John Hopki
 
 # Example
 
-![Alt Text](covid19slackbot-2.jpg)
+![Alt Text](https://raw.githubusercontent.com/richardle17/COVID19-SlackBot/master/demo/covid19slackbot-2.jpg)
 
 Todo:
 
