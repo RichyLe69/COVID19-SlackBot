@@ -26,6 +26,10 @@ Retrieves Data from disease.sh API which is based on Worldometers and John Hopki
 * For particular states, simply @ the bot followed by the state name (case sensitive).
 * For particular counties, simply @ the bot followed by the word 'county' and the county name (case sensitive).
 
+# Example
+
+![Alt Text](covid19slackbot-2.jpg)
+
 Todo:
 
 * clean up the code
